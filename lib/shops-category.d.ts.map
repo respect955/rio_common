@@ -1,0 +1,1 @@
+{"version":3,"file":"shops-category.d.ts","sourceRoot":"","sources":["../src/shops-category.ts"],"names":[],"mappings":"AAEA,qBAAa,eAAe;IAE1B,IAAI,EAAE,MAAM,CAAC;CACd;AAED,oBAAY,iBAAiB,GAAG;IAC9B,GAAG,EAAE,MAAM,CAAC;IACZ,IAAI,EAAE,MAAM,CAAC;IACb,KAAK,EAAE,MAAM,CAAC;IACd,SAAS,EAAE,IAAI,CAAC;IAChB,SAAS,EAAE,IAAI,CAAC;IAChB,GAAG,CAAC,EAAE,GAAG,CAAC;CACX,CAAC"}

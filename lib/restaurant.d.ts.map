@@ -1,0 +1,1 @@
+{"version":3,"file":"restaurant.d.ts","sourceRoot":"","sources":["../src/restaurant.ts"],"names":[],"mappings":"AAAA,qBAAa,aAAa;IACxB,KAAK,EAAE,MAAM,CAAC;IACd,WAAW,EAAE,MAAM,CAAC;CACrB;AAED,oBAAY,WAAW,GAAG;IACxB,GAAG,EAAE,MAAM,CAAC;IACZ,KAAK,EAAE,MAAM,CAAC;IACd,WAAW,EAAE,MAAM,CAAC;IACpB,SAAS,EAAE,IAAI,CAAC;IAChB,SAAS,EAAE,IAAI,CAAC;CACjB,CAAC"}
